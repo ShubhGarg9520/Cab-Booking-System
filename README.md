@@ -27,7 +27,7 @@ Check out the live deployment of the project here:
 * **Styling:** Tailwind CSS
 * **Language:** JavaScript / TypeScript
 ---
-## Getting Started
+## 🔑 Getting Started
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ Make sure you have [Node.js](https://nodejs.org) installed on your computer.
 
 5. Open [http://localhost:3000](http://localhost:3000) in your web browser to see the app.
 ---
-## Project Structure
+## 🔭 Project Structure
 
 * `app/`: Next.js 14 App Router pages and layouts
 * `components/`: Reusable React components (buttons, inputs, maps, cards)
