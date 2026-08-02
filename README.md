@@ -1,6 +1,6 @@
 # Cab Booking System 🚕
 
-A modern, fast, and responsive cab booking web application built with Next.js 14 (App Router), React.js, and Tailwind CSS.
+A modern, fast, and responsive **cab booking web application** built with **Next.js 14 (App Router)**, **React.js**, and **Tailwind CSS**.
 
 ---
 
