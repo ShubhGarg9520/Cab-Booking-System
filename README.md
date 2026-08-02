@@ -2,12 +2,14 @@
 
 A modern, fast, and responsive cab booking web application built with Next.js 14 (App Router), React.js, and Tailwind CSS.
 
+---
 
 ## 🚀 Live Demo
 
 Check out the live deployment of the project here:  
-🔗 **[Live Demo Link](https://github.io)** *(Replace with your live URL, e.g., GitHub Pages)*
+🔗 **[Live Demo Link](https://github.io)** *https://cab-booking-tcj.netlify.app/*
 
+---
 
 ## 🛠️ Features
 
@@ -16,6 +18,7 @@ Check out the live deployment of the project here:
 * Interactive booking flow with pickup and drop-off location inputs
 * Real-time fare estimation and cab type selection
 * User-friendly interactive components built with React.js
+---
 
 ## ⚒️ Tech Stack
 
@@ -23,13 +26,13 @@ Check out the live deployment of the project here:
 * **Library:** React.js
 * **Styling:** Tailwind CSS
 * **Language:** JavaScript / TypeScript
-
+---
 ## Getting Started
 
 ### Prerequisites
 
 Make sure you have [Node.js](https://nodejs.org) installed on your computer.
-
+---
 ### Installation
 
 1. Clone the repository:
@@ -53,7 +56,7 @@ Make sure you have [Node.js](https://nodejs.org) installed on your computer.
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your web browser to see the app.
-
+---
 ## Project Structure
 
 * `app/`: Next.js 14 App Router pages and layouts
