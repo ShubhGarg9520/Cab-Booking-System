@@ -7,17 +7,17 @@ A modern, fast, and responsive **cab booking web application** built with **Next
 ## 🚀 Live Demo
 
 Check out the live deployment of the project here:  
-🔗 **[Live Demo Link](https://github.io)** *https://cab-booking-tcj.netlify.app/*
+🔗 **[Live Demo Link](https://github.io)** - **https://cab-booking-tcj.netlify.app/**
 
 ---
 
 ## 🛠️ Features
 
-* Fast page loads and server-side rendering with Next.js 14
-* Clean, modern, and fully responsive user interface styled with Tailwind CSS
+* Fast page loads and server-side rendering with **Next.js 14**
+* Clean, modern, and fully responsive user interface styled with **Tailwind CSS**
 * Interactive booking flow with pickup and drop-off location inputs
 * Real-time fare estimation and cab type selection
-* User-friendly interactive components built with React.js
+* User-friendly interactive components built with **React.js**
 ---
 
 ## ⚒️ Tech Stack
