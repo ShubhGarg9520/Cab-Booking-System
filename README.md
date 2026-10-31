@@ -8,7 +8,7 @@ Enabling users to book rides through an intuitive interface with optimized perfo
 ## 🚀 Live Demo
 
 Check out the live deployment of the project here:  
-🔗 **[[Live Demo]([url](https://cab-booking-tcj.netlify.app/))]**
+🔗 **[Live Demo](https://cab-booking-tcj.netlify.app/)**
 
 ---
 
